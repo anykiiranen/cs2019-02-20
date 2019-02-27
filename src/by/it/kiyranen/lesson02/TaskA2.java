@@ -9,5 +9,12 @@ package by.it.kiyranen.lesson02;
 */
 
 class TaskA2 {
+    public static void main(String[] args) {
+        System.out.printf("Я начинаю изучать Java!");
+        System.out.printf("Я начинаю изучать Java!");
+        System.out.printf("Я начинаю изучать Java!");
+        System.out.printf("Я начинаю изучать Java!");
+        System.out.printf("Я начинаю изучать Java!");
 
+    }
 }

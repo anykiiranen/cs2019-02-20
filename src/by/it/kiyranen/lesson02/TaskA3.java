@@ -10,6 +10,6 @@ class TaskA3 {
         int i = 2;
         int j = 3;
         int k = i + j;
-        System.out.println(i + "+" + j + "=" + k);
+        System.out.println(j + "*" + j + "+" + "4" + "*" + "4" + "=" + "25");
     }
 }
